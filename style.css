@@ -1,0 +1,44 @@
+.container {
+    text-align: center;
+    margin-top: 233px;
+    background-size: cover;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-bottom: 320px;
+    cursor: pointer;
+    background-color: black;
+    border-style: solid;
+    color: white;
+    width: 120px;
+    height: 65px;
+    border-width: 2px;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+#output {
+margin-bottom: 20px;
+font-size: 25px;
+color: white;
+font-weight: bold;
+font-family: "Italy";
+}
+
+body {
+    background-image: url("https://media.istockphoto.com/id/1367728606/vector/conversational-ai-concept-natural-language-processing-nlp-computational-linguistics-concept.jpg?s=612x612&w=0&k=20&c=YB1PDavNi9HCRnFlhb2g5y9lhOl3CIAxbSNvZifB_F0=");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: white;
+    font-family: "Roboto";
+    text-align: center;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+}
